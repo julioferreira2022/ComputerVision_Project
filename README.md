@@ -1,5 +1,5 @@
 # Computer Vision Project
-The notebook partially implements a SfM pipeline.
+The notebook in this repository partially implements a SfM pipeline.
 
 TODO:
 
